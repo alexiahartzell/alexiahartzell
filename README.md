@@ -1,6 +1,7 @@
 ### Alexia Hartzell
 
-Ph.D. candidate in Chemistry at the University of Texas at Austin.
+Ph.D. candidate in Chemistry at the University of Texas at Austin, and a
+U.S. Department of Energy Computational Science Graduate Fellow (DOE CSGF).
 
 I build quantum dynamics methods, and the simulations that use them, to work out
 how molecular materials move energy around after they absorb light.
